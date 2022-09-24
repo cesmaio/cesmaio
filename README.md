@@ -1,5 +1,5 @@
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="🖖"></h1>
-<h3 align="center">I'm full stack developer from Italy</h3>
+<h3 align="center">I'm a full stack developer from Italy</h3>
 
 <br>
 
